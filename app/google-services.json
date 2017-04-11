@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "1046049233490",
+    "firebase_url": "https://mind-c1eff.firebaseio.com",
+    "project_id": "mind-c1eff",
+    "storage_bucket": "mind-c1eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046049233490:android:bcf21fa244479259",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mindlot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046049233490-csrjk3b9n77et2vq028pid13qqefsvql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.mindlot",
+            "certificate_hash": "82F920553B8E5BD1A0EF61AD4509BBA236881F41"
+          }
+        },
+        {
+          "client_id": "1046049233490-3fvn2pootqp06b08s13po2hc7vlbj6gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRQTuzbNICuk_29lLZvdsGzRWFDlw1rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046049233490-3fvn2pootqp06b08s13po2hc7vlbj6gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046049233490:android:70d7baded0820975",
+        "android_client_info": {
+          "package_name": "com.mindlot.firebase.codelab.mindlot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046049233490-l6opvsk8lbstltfmppemh6odh43s8am3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindlot.firebase.codelab.mindlot",
+            "certificate_hash": "4BBCF646AC4B917570424B479EADB341EF8E2EB2"
+          }
+        },
+        {
+          "client_id": "1046049233490-e4ehrt1cj1nruvcp9vk0kgbhju1cerhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindlot.firebase.codelab.mindlot",
+            "certificate_hash": "82F920553B8E5BD1A0EF61AD4509BBA236881F41"
+          }
+        },
+        {
+          "client_id": "1046049233490-3fvn2pootqp06b08s13po2hc7vlbj6gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRQTuzbNICuk_29lLZvdsGzRWFDlw1rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046049233490:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046049233490-jodfrvvussbjqf9112smbis8efo6u7kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "4BBCF646AC4B917570424B479EADB341EF8E2EB2"
+          }
+        },
+        {
+          "client_id": "1046049233490-3fvn2pootqp06b08s13po2hc7vlbj6gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRQTuzbNICuk_29lLZvdsGzRWFDlw1rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046049233490-3fvn2pootqp06b08s13po2hc7vlbj6gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

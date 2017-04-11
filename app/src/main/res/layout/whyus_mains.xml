@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+    <ViewFlipper
+        android:layout_width="match_parent"
+        android:layout_height="162dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/vi">
+
+    </ViewFlipper>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="308dp"
+        android:layout_margin="15dp"
+        android:layout_gravity="center">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+
+            android:id="@+id/textView"
+            android:textColor="#000"
+            android:text="“Be The Best” in whatever we do stay as a standing slogan of our teams’ effort and activities. In “mindlot” we do, constantly, “invent - innovate - implement” the best of the way, the best of the method, the best of the approach; with dedication, determination, insightful, holistic, systematic performance. systematic performance"
+
+            android:textSize="10pt"/>
+
+
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+</LinearLayout>

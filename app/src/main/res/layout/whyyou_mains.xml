@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ViewFlipper
+        android:layout_width="match_parent"
+        android:layout_height="112dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/vi">
+
+    </ViewFlipper>
+
+<android.support.v4.widget.NestedScrollView
+    android:layout_width="match_parent"
+    android:layout_margin="20dp"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView"
+        android:textColor="#000"
+        android:text="Than understanding elephant by its tail, nail, skin, leg abstractly-to the sake of its labelling;
+        you deserve an approach which empower collaborative, cross  -domain, vertically-integrated set of actions for your comprehension. You are the one who chose to be different, unique and “out-of-box” element. We just guarantee you the same for you to become."
+
+        android:textSize="18dp"/>
+
+
+
+</android.support.v4.widget.NestedScrollView>
+
+
+
+
+
+</LinearLayout>

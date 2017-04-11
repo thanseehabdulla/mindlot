@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ViewFlipper
+        android:layout_width="match_parent"
+        android:layout_height="162dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/vi">
+
+    </ViewFlipper>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Please do call us on: +91 8547808231, +91 9895413378"
+        android:id="@+id/textView2"
+        android:layout_gravity="center"
+        android:textColor="#000"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="190dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="For any information, clarification email at: info@mindlot.com"
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal|bottom"
+        android:textColor="#000"/>
+
+
+</FrameLayout>
